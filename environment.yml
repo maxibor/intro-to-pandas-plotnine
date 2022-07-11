@@ -1,0 +1,11 @@
+name: intro-data
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - plotnine
+  - nb_conda
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /Users/maxime/mambaforge/envs/intro-data
